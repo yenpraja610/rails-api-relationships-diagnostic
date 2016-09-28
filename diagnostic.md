@@ -43,6 +43,11 @@ like to show all movies favorited by a profile on
   # < Your Response Here >
 ```
 
+```rb
+class ProfileSerializer < ActiveModel::Serializer
+end
+```
+
 1.  What would the command be to _scaffold_ out a **join table** for Favorites from
 the above `Movies` and `Profiles`.
 

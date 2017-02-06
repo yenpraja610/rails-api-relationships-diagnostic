@@ -4,7 +4,7 @@ Place your responses inside the fenced code-blocks where indivated by comments.
 
 1.  Describe a reason why a join tables may be valuable.
 
-```sh
+```md
   # < Your Response Here >
 ```
 
@@ -14,7 +14,7 @@ describes a many-to-many relationship for `Profiles`, `Movies` and `Favorites`
 `Movies` have `title`, `release_date`, and `length` and `Favorites` would be the
 join table with references to `Movies` and `Profiles`.
 
-```sh
+```md
   # < Your Response Here >
 ```
 
@@ -39,7 +39,7 @@ end
 like to show all movies favorited by a profile on
 `http://localhost:3000/profiles/1`
 
-```sh
+```md
   # < Your Response Here >
 ```
 
@@ -57,7 +57,7 @@ the above `Movies` and `Profiles`.
 
 1.  What is `Dependent: Destroy` and where/why would we use it?
 
-```sh
+```md
   # < Your Response Here >
 ```
 
@@ -65,6 +65,6 @@ the above `Movies` and `Profiles`.
 as a many-to-many relationship in an application. You only need to list the
 description about the resources and how they relate to one another.
 
-```sh
+```md
   # < Your Response Here >
 ```

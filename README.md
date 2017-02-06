@@ -30,16 +30,6 @@ You may use **any resource** other than each other to complete this diagnostic.
 This includes referencing talk materials, appropriate documentation, and
 searching for help online.
 
-You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. After `grunt nag` passes, you should
-run `grunt test` to run the included tests. Tests will tell you whether of not
-your responses are correct.
-
-It's probably a good idea to include the above verbatim in each diagnostic.
-Remember to edit the link to the actual diagnostic file (it might be stored in a
-different directory or have a different extension). If tooling is not included
-in this diagnostic, feel free to remove that bit from these instructions.
-
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
